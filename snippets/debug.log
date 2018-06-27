@@ -1,0 +1,7 @@
+[0621/220715.849:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0621/220715.851:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0621/220715.851:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0621/220715.852:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0621/220715.854:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Access is denied. (0x5)
+[0621/220715.879:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0621/220715.883:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Access is denied. (0x5)
